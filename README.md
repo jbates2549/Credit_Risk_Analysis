@@ -17,7 +17,23 @@ Use a combination approach with the SMOTEENN algorithm.
 First we have the analysis using oversampling method.
 ![image_name](https://github.com/jbates2549/Credit_Risk_Analysis/blob/main/Oversampling_classification.PNG)
 
+The next analysis is for SMOTE oversampling
+![image_name](https://github.com/jbates2549/Credit_Risk_Analysis/blob/main/SMOTE_oversampling.PNG)
 
+We then use the undersampling method
+![image_name](https://github.com/jbates2549/Credit_Risk_Analysis/blob/main/SMOTE_oversampling.PNG)
+
+This is followed by SMOTE undersampling
+![image_name](https://github.com/jbates2549/Credit_Risk_Analysis/blob/main/SMOTE_Undersampling.PNG)
+
+We then use combination oversampling and undersampling
+![image_name](https://github.com/jbates2549/Credit_Risk_Analysis/blob/main/combination_over_under.PNG)
+
+The next method is logistic regression classifier using SKLEARN
+![image_name](https://github.com/jbates2549/Credit_Risk_Analysis/blob/main/logistic_regression_classifier_sklearn.PNG)
+
+Finally we use the easy ensemble method classifier.
+![image_name](https://github.com/jbates2549/Credit_Risk_Analysis/blob/main/easy_ensemble_classifier.PNG)
 
 
 
