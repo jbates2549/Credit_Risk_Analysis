@@ -14,7 +14,14 @@ Use a combination approach with the SMOTEENN algorithm.
 
 ## Analysis
 
-![image_name](![image_name](https://github.com/jbates2549/Amazon_Vine_Analysis/blob/main/vine_only_5star_reviews.PNG)
+First we have the analysis using oversampling method.
+![image_name](https://github.com/jbates2549/Credit_Risk_Analysis/blob/main/Oversampling_classification.PNG)
+
+
+
+
+
+## Summary of Results
 
 Summary of precision and recall scores.
 * Random Oversampling: precision 99%, recall 58%, F1 73%.
@@ -24,5 +31,5 @@ Summary of precision and recall scores.
 * SKLEARN
 * Easy Ensemble Classifier
 
-## Summary of Results
+
 SMOTE oversampling in my opinion is the most ideal as it has the highest balanced accuracy score of all the overall models.
