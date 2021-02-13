@@ -13,7 +13,10 @@ Oversample the data using the RandomOverSampler and SMOTE algorithms.
 Use a combination approach with the SMOTEENN algorithm.
 
 ## Analysis
-Describe the precision and recall scores.
+
+![image_name](![image_name](https://github.com/jbates2549/Amazon_Vine_Analysis/blob/main/vine_only_5star_reviews.PNG)
+
+Summary of precision and recall scores.
 * Random Oversampling: precision 99%, recall 58%, F1 73%.
 * SMOTE Oversampling: precision 99%, recall 68%, F1 81%.
 * Undersampling: precision 99%, recall 41%, F1 58%.
