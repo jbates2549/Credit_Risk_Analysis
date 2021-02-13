@@ -18,6 +18,8 @@ Describe the precision and recall scores.
 * SMOTE Oversampling: precision 99%, recall 68%, F1 81%.
 * Undersampling: precision 99%, recall 41%, F1 58%.
 * Combination: precision 99%, recall 57%, F1 72%.
+* SKLEARN
+* Easy Ensemble Classifier
 
 ## Summary of Results
 SMOTE oversampling in my opinion is the most ideal as it has the highest balanced accuracy score of all the overall models.
